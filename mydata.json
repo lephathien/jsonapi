@@ -5,6 +5,8 @@
         "image": "assets/image/food1.jpeg",
         "detail": "abc",
         "star": 5,
+        "price": 120000,
+        "sale": 80000,
         "distance": "2.5 km",
         "time": "30 p"
     },
@@ -13,6 +15,8 @@
         "name": "Cơm cá hồi",
         "image": "assets/image/food2.jpeg",
         "detail": "abc",
+        "price": 70000,
+        "sale": 50000,
         "star": 4,
         "distance": "2.0 km",
         "time": "25 p"
@@ -22,6 +26,8 @@
         "name": "Xiên que ngũ sắc",
         "image": "assets/image/food3.jpeg",
         "detail": "abc",
+        "price": 100000,
+        "sale": 70000,
         "star": 3,
         "distance": "3.5 km",
         "time": "40 p"
@@ -31,6 +37,8 @@
         "name": "Khay món chiên lớn",
         "image": "assets/image/food4.jpeg",
         "detail": "abc",
+        "price": 60000,
+        "sale": 50000,
         "star": 5,
         "distance": "1.5 km",
         "time": "20 p"
@@ -40,6 +48,8 @@
         "name": "bò nướng xiên que",
         "image": "assets/image/food5.jpeg",
         "detail": "abc",
+         "price": 90000,
+        "sale": 70000,
         "star": 5,
         "distance": "1.0 km",
         "time": "15 p"
