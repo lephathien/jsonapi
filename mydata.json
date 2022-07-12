@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Heo rừng nướng mật",
+        "image": "assets/image/food1.jpeg",
+        "detail": "abc",
+        "star": 5,
+        "distance": "2.5 km",
+        "time": "30 p"
+    },
+    {
+        "id": 2,
+        "name": "Cơm cá hồi",
+        "image": "assets/image/food2.jpeg",
+        "detail": "abc",
+        "star": 4.5,
+        "distance": "2.0 km",
+        "time": "25 p"
+    },
+    {
+        "id": 3,
+        "name": "Xiên que ngũ sắc",
+        "image": "assets/image/food3.jpeg",
+        "detail": "abc",
+        "star": 3.0,
+        "distance": "3.5 km",
+        "time": "40 p"
+    },
+    {
+        "id": 4,
+        "name": "Khay món chiên lớn",
+        "image": "assets/image/food4.jpeg",
+        "detail": "abc",
+        "star": 5,
+        "distance": "1.5 km",
+        "time": "20 p"
+    },
+    {
+        "id": 5,
+        "name": "bò nướng xiên que",
+        "image": "assets/image/food5.jpeg",
+        "detail": "abc",
+        "star": 5,
+        "distance": "1.0 km",
+        "time": "15 p"
+    }
+]
